@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="lib/juh.jar"/>
+	<classpathentry kind="lib" path="lib/jurt.jar"/>
+	<classpathentry kind="lib" path="lib/officebean.jar"/>
+	<classpathentry kind="lib" path="lib/ridl.jar"/>
+	<classpathentry kind="lib" path="lib/unoil.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
